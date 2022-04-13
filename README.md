@@ -1,7 +1,4 @@
-// Fahri Numan Eskici
-// 2309995
 // https://geekweekscheduler.herokuapp.com/
-
 
 I have delevoped this weekly scheduler app using NodeJS and ReactJS. 
 
@@ -10,7 +7,3 @@ I imported scheduler component to my app from @syncfusion/ej2-react-schedule. Sy
 I also imported tree view component from @syncfusion/ej2-react-navigations. I used it for displaying wildcards in a tree-list view.
 
 I used Axios as HTTP client. All get requests called once when user gets in the website.
-
-Finally, I imported a free nice looking button as downloader to make page nicer.
-
-This is my first website project. I have tried to learn JavaScript-TypeScript basics, ReactJS, little bit HTML and CSS, API usage etc. at once. I tried my best, and I enjoyed it very much.
